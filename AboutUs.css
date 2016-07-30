@@ -168,6 +168,27 @@ body {
     font-size: 3vw;
 }
 
+table {
+    width: 80%;
+    transform: translate(10%);
+}
+
+#name {
+    font-size: 1.5vw;
+    margin: 0;
+}
+
+#school {
+    font-size: 1vw;
+    margin: 0;
+    font-style: normal;
+}
+
+#phoebepic {
+    width: 10vw;
+    height: 10vw;
+}
+
 #contactcontainer {
     background-color: white;
     width: 100%;
