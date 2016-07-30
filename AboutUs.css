@@ -9,7 +9,7 @@ body {
     color: white;
     position: absolute;
     z-index: 2;
-    transform: translateX(160%) translateY(-340%);
+    transform: translateX(36.75vw) translateY(-29.5vw);
 }
 
 .grass {
